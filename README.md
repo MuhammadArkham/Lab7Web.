@@ -15,7 +15,7 @@ Pilih versi portable agar proses instalasi lebih mudah.
 Extract file XAMPP dan tempatkan pada direktori misalnya:
 C:\xampp
 
-2. Konfigurasi Web Server
+## 2. Konfigurasi Web Server
 a. Konfigurasi Apache (HTTP Server)
 
 File konfigurasi:
@@ -59,7 +59,7 @@ Port MySQL (default 3306)
 
 Timezone database
 
-3. Menjalankan Web Server
+## 3. Menjalankan Web Server
 
 ![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160354.png?raw=true)
 Jalankan XAMPP Control Panel, lalu tekan:
@@ -85,7 +85,7 @@ Akses PHPMyAdmin:
 
 http://localhost/phpmyadmin
 
-4. Memulai PHP
+## 4. Memulai PHP
 
 Buat folder baru:
 
@@ -96,7 +96,7 @@ Lalu akses melalui browser:
 
 http://localhost/lab7_php_dasar/
 
-5. PHP Dasar
+## 5. PHP Dasar
 
 Buat file php_dasar.php, isi dengan:
 ```
@@ -116,7 +116,7 @@ Akses file:
 
 http://localhost/lab7_php_dasar/php_dasar.php
 
-6. Variabel pada PHP
+## 6. Variabel pada PHP
 ```
 <?php
 $nim = "0411500400";
@@ -125,8 +125,9 @@ $nama = "Abdullah";
 echo "NIM : $nim <br>";
 echo "Nama : $nama";
 ?>
-
-7. Predefine Variable $_GET
+```
+## 7. Predefine Variable $_GET
+```
 <?php
 echo "Selamat Datang " . $_GET['nama'];
 ?>
@@ -136,7 +137,7 @@ Akses:
 
 http://localhost/lab7_php_dasar/latihan2.php?nama=Bagus
 
-8. Form Input
+## 8. Form Input
 ```
 <form method="post">
     <label>Nama:</label>
@@ -147,8 +148,9 @@ http://localhost/lab7_php_dasar/latihan2.php?nama=Bagus
 <?php
 echo "Selamat Datang " . $_POST['nama'];
 ?>
-
-9. Operator
+``` 
+## 9. Operator
+```
 <?php
 $gaji = 1000000;
 $pajak = 0.1;
@@ -158,7 +160,7 @@ echo "Gaji sebelum pajak = Rp. $gaji <br>";
 echo "Gaji setelah pajak = Rp. $thp";
 ?>
 ```
-10. Kondisi IF
+## 10. Kondisi IF
 ```
 <?php
 $hari = date("l");
@@ -171,8 +173,9 @@ if ($hari == "Sunday") {
     echo "Hari Lain";
 }
 ?>
-
-11. Kondisi Switch
+```
+## 11. Kondisi Switch
+```
 <?php
 $hari = date("l");
 
@@ -183,20 +186,23 @@ switch ($hari) {
     default: echo "Hari Lain";
 }
 ?>
-
-12. Perulangan FOR
+```
+## 12. Perulangan FOR
+```
 for ($i = 1; $i <= 10; $i++) {
     echo "Perulangan ke-$i <br>";
 }
-
+```
 13. Perulangan WHILE
+```
 $i = 1;
 while ($i <= 10) {
     echo "Perulangan ke-$i <br>";
     $i++;
 }
-
-14. Perulangan DO WHILE
+```
+15. Perulangan DO WHILE
+```
 $i = 1;
 do {
     echo "Perulangan ke-$i <br>";
