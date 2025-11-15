@@ -76,10 +76,10 @@ http://localhost
 
 
 Direktori untuk menyimpan file website:
-![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160508.png?raw=true)
+
 
 C:\xampp\htdocs\
-
+![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160508.png?raw=true)
 
 Akses PHPMyAdmin:
 
