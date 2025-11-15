@@ -27,13 +27,13 @@ Konfigurasi server MySQL, seperti administrator user, port, timezone, dll. Lokas
 
 Untuk menjalankan web server dari menu XAMPP Control.
 
-![gambar](foto/01.png)
+![gambar](fhttps://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160354.png)
 
 - Uji coba apakah server sudah berkerja dengan baik.
 
 http://127.0.0.1 atau http://localhost
 
-![gambar](foto/001.png)
+![gambar](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160447.png)
 
 - Dokumen Website
 
@@ -41,17 +41,17 @@ Semua file website tempatkan di direktori: \xampp\htdocs\
 
 Manajemen database: http://localhost/phpmyadmin
 
-![gambar](foto/002.png)
+![gambar](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160508.png)
 
 ### 4. Memulai PHP
 
 Buat folder lab7_php_dasar pada root directory web server (c:\xampp\htdocs)
 
-![gambar](foto/02.png)
+
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
 
-![gambar](foto/03.png)
+
 
 ### 5. PHP Dasar
 
@@ -75,7 +75,6 @@ Buat file baru dengan nama php_dasar.php pada directory tersebut. Kemudian buat 
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7_php_dasar/php_dasar.php
 
-![gambar](foto/04.png)
 
 ### 6. Variable PHP
 
@@ -90,7 +89,7 @@ echo "Nama : $nama";
 ?>
 ```
 
-![gambar](foto/05.png)
+
 
 ### 7. Predefine Variable $_GET
 
@@ -102,7 +101,7 @@ echo 'Selamat Datang ' . $_GET['nama'];
 
 Untuk mengaksesnya gunakan URL: http://localhost/lab7_php_dasar/latihan2.php?nama=Bagus
 
-![gambar](foto/004.png)
+
 
 ### 8. Membuat Form Input
 
@@ -141,7 +140,6 @@ echo "Gaji yang dibawa pulang = Rp. $thp";
 ?>
 ```
 
-![gambar](foto/08.png)
 
 ### 10. Kondisi IF
 
@@ -158,7 +156,7 @@ if ($nama_hari == "Sunday") {
 ?>
 ```
 
-![gambar](foto/09.png)
+
 
 ### 11. Kondisi Switch
 
@@ -181,7 +179,7 @@ switch ($nama_hari) {
 ?>
 ```
 
-![gambar](foto/10.png)
+
 
 ### 12. Perulangan for
 
@@ -199,7 +197,7 @@ for ($i=10; $i>=1; $i--) {
 ?>
 ```
 
-![gambar](foto/11.png)
+
 
 ### 13. Perulangan while
 
@@ -214,7 +212,7 @@ while ($i<=10) {
 ?>
 ```
 
-![gambar](foto/12.png)
+
 
 ### 14. Perulangan dowhile
 
@@ -229,7 +227,6 @@ do {
 ?>
 ```
 
-![gambar](foto/13.png)
 
 ## Pertanyaan dan Tugas
 
