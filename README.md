@@ -25,26 +25,19 @@ Konfigurasi server MySQL, seperti administrator user, port, timezone, dll. Lokas
 
 ### 3. Menjalankan Web Server
 Untuk menjalankan web server dari menu XAMPP Control.
-
-
-![gambar](fhttps://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160354.png)
+![Foto](fhttps://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160354.png)
 
 - Uji coba apakah server sudah berkerja dengan baik.
 
 http://127.0.0.1 atau http://localhost
-
-
-![gambar](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160447.png)
+![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160447.png)
 
 - Dokumen Website
 
 Semua file website tempatkan di direktori: \xampp\htdocs\
 
 Manajemen database: http://localhost/phpmyadmin
-
-
-
-![gambar](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160508.png)
+![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160508.png)
 
 ### 4. Memulai PHP
 
