@@ -61,7 +61,7 @@ Timezone database
 
 3. Menjalankan Web Server
 
-![Foto](fhttps://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160354.png)
+![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160354.png?raw=true)
 Jalankan XAMPP Control Panel, lalu tekan:
 
 Start Apache
@@ -69,14 +69,14 @@ Start Apache
 Start MySQL
 
 Uji server apakah sudah berjalan melalui browser:
-![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160447.png)
+![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160447.png?raw=true)
 http://127.0.0.1
 atau
 http://localhost
 
 
 Direktori untuk menyimpan file website:
-![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160508.png)
+![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160508.png?raw=true)
 
 C:\xampp\htdocs\
 
