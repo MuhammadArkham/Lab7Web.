@@ -24,9 +24,7 @@ Untuk konfigurasi perilaku engine PHP yang berefek pada keamanan dan performa. S
 Konfigurasi server MySQL, seperti administrator user, port, timezone, dll. Lokasi file: \xampp\mysql\bin\my.ini
 
 ### 3. Menjalankan Web Server
-
 Untuk menjalankan web server dari menu XAMPP Control.
-
 ![gambar](fhttps://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/Screenshot%202025-11-15%20160354.png)
 
 - Uji coba apakah server sudah berkerja dengan baik.
