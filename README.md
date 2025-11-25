@@ -46,7 +46,7 @@ Error reporting
 
 Pengaturan ekstensi PHP
 
-c. Konfigurasi MySQL
+### c. Konfigurasi MySQL
 
 File konfigurasi:
 xampp\mysql\bin\my.ini
@@ -280,4 +280,4 @@ if (isset($_POST['submit'])) {
 </body>
 </html>
 ```
-
+![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/unnamed%20(1).jpg?raw=true)
