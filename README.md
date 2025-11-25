@@ -16,7 +16,7 @@ Extract file XAMPP dan tempatkan pada direktori misalnya:
 C:\xampp
 
 ## 2. Konfigurasi Web Server
-a. Konfigurasi Apache (HTTP Server)
+### a. Konfigurasi Apache (HTTP Server)
 
 File konfigurasi:
 xampp\apache\conf\httpd.conf
@@ -31,7 +31,7 @@ Lokasi DocumentRoot
 
 Pengaturan keamanan dasar
 
-b. Konfigurasi PHP
+### b. Konfigurasi PHP
 
 File konfigurasi:
 xampp\php\php.ini
