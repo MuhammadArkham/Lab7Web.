@@ -5,15 +5,21 @@ Nim : 312410545
 Kelas : TI.24.A.5
 ## Laporan Praktikum
 
-## 1. Install XAMPP
+1. Instalasi XAMPP
+Download XAMPP
 
-Unduh XAMPP melalui situs resmi:
-https://www.apachefriends.org/download.html
+Kunjungi situs resmi XAMPP: https://www.apachefriends.org/download.html
+Pilih versi portable untuk kemudahan instalasi
+Extract file XAMPP ke direktori pilihan Anda
 
-Pilih versi portable agar proses instalasi lebih mudah.
-
-Extract file XAMPP dan tempatkan pada direktori misalnya:
-C:\xampp
+Lokasi Instalasi: C:\xampp
+Struktur Direktori XAMPP
+xampp/
+├── apache/          # Web Server Apache
+├── mysql/           # Database MySQL
+├── php/             # PHP Interpreter
+├── htdocs/          # Document Root (tempat file website)
+└── phpMyAdmin/      # Tool manajemen database
 
 ## 2. Konfigurasi Web Server
 ### a. Konfigurasi Apache (HTTP Server)
@@ -281,3 +287,12 @@ if (isset($_POST['submit'])) {
 </html>
 ```
 ![Foto](https://github.com/MuhammadArkham/Lab7Web./blob/main/BUKTI%20FOTO/unnamed%20(1).jpg?raw=true)
+
+Fitur Program
+
+✅ Input nama pengguna
+✅ Input tanggal lahir dengan date picker
+✅ Pilihan pekerjaan (dropdown)
+✅ Perhitungan umur otomatis menggunakan DateTime
+✅ Penentuan gaji berdasarkan pekerjaan
+✅ Format tampilan rupiah dengan number_format()
