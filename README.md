@@ -12,18 +12,14 @@ Kunjungi situs resmi XAMPP: https://www.apachefriends.org/download.html
 Lokasi Instalasi: C:\xampp
 
 ## Struktur Direktori XAMPP
-
-### xampp/
-### ├── apache/           Web Server Apache
-
-### ├── mysql/            Database MySQL
-
-### ├── php/              PHP Interpreter
-
-### ├── htdocs/           Document Root (tempat file website)
-
-### └── phpMyAdmin/       Tool manajemen database
-
+~~~
+xampp/
+├── apache/           Web Server Apache
+├── mysql/            Database MySQL
+├── php/              PHP Interpreter
+├── htdocs/           Document Root (tempat file website)
+└── phpMyAdmin/       Tool manajemen database
+~~~
 ## 2. Konfigurasi Web Server
 ### a. Konfigurasi Apache (HTTP Server)
 
