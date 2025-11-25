@@ -138,9 +138,8 @@ echo "Selamat Datang " . $_GET['nama'];
 ?>
 ```
 
-Akses:
 
-http://localhost/lab7_php_dasar/latihan2.php?nama=Bagus
+
 
 ## 8. Form Input
 ```
